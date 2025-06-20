@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Automation Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Remote</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Process Automation, Scripting, Technical Collaboration
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
