@@ -17,7 +17,7 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://tke-website-one.vercel.app/" target="_blank" rel="noreferrer"><img src={mock4} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://tke-website-one.vercel.app/" target="_blank" rel="noreferrer"><h2>Sentra Chatbot</h2></a>
+                <a href="https://tke-website-one.vercel.app/" target="_blank" rel="noreferrer"><h2>TKE Website</h2></a>
                 <p>Built a website to assist in recruiting and showcasing my fraternity Tau Kappa Epsilon to potential members, students, and parents</p>
             </div>
             <div className="project">
