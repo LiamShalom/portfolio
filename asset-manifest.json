@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.958493bd.js",
+    "main.js": "/portfolio/static/js/main.f72bd731.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/sentra-chatbot-mock.png": "/portfolio/static/media/sentra-chatbot-mock.79737de4e8c63008c2e3.png",
     "static/media/muscle-map-mock.png": "/portfolio/static/media/muscle-map-mock.5cdfe5b13ded8719ec17.png",
@@ -12,11 +12,11 @@
     "static/media/tke-website-mock.png": "/portfolio/static/media/tke-website-mock.889586dad82ce8d4cf10.png",
     "index.html": "/portfolio/index.html",
     "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.958493bd.js.map": "/portfolio/static/js/main.958493bd.js.map",
+    "main.f72bd731.js.map": "/portfolio/static/js/main.f72bd731.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52762df1.css",
-    "static/js/main.958493bd.js"
+    "static/js/main.f72bd731.js"
   ]
 }
