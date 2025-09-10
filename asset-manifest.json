@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.8d1c97dd.js",
-    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "main.css": "/portfolio/static/css/main.f03f0c33.css",
+    "main.js": "/portfolio/static/js/main.735d3bb3.js",
+    "static/js/453.5d79306b.chunk.js": "/portfolio/static/js/453.5d79306b.chunk.js",
     "static/media/sentra-chatbot-mock.png": "/portfolio/static/media/sentra-chatbot-mock.79737de4e8c63008c2e3.png",
     "static/media/muscle-map-mock.png": "/portfolio/static/media/muscle-map-mock.5cdfe5b13ded8719ec17.png",
     "static/media/avatar.jpeg": "/portfolio/static/media/avatar.bf080b15a7072366f085.jpeg",
@@ -11,12 +11,12 @@
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/tke-website-mock.png": "/portfolio/static/media/tke-website-mock.889586dad82ce8d4cf10.png",
     "index.html": "/portfolio/index.html",
-    "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.8d1c97dd.js.map": "/portfolio/static/js/main.8d1c97dd.js.map",
-    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+    "main.f03f0c33.css.map": "/portfolio/static/css/main.f03f0c33.css.map",
+    "main.735d3bb3.js.map": "/portfolio/static/js/main.735d3bb3.js.map",
+    "453.5d79306b.chunk.js.map": "/portfolio/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52762df1.css",
-    "static/js/main.8d1c97dd.js"
+    "static/css/main.f03f0c33.css",
+    "static/js/main.735d3bb3.js"
   ]
 }
