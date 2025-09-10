@@ -13,12 +13,12 @@ function Project() {
             <div className="project">
                 <a href="https://sentra-4114a.web.app" target="_blank" rel="noreferrer"><img src={mock1} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://sentra-4114a.web.app" target="_blank" rel="noreferrer"><h2>Sentra Chatbot</h2></a>
-                <p>Built a website to assist in recruiting and showcasing my fraternity, Tau Kappa Epsilon to potential members, students, and parents</p>
+                <p>With a group of students designed a full-stack AI roleplay chat platform with persistent character memory, chat history, and friend-based shared context </p>
             </div>
             <div className="project">
                 <a href="https://uwtke.beer/" target="_blank" rel="noreferrer"><img src={mock4} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://uwtke.beer/" target="_blank" rel="noreferrer"><h2>TKE Website</h2></a>
-                <p>With a group of students designed a full-stack AI roleplay chat platform with persistent character memory, chat history, and friend-based shared context </p>
+                <p>Built a website to assist in recruiting and showcasing my fraternity, Tau Kappa Epsilon to potential members, students, and parents</p>
             </div>
             <div className="project">
                 <a href="https://chess-app-lemon.vercel.app" target="_blank" rel="noreferrer"><img src={mock2} className="zoom" alt="thumbnail" width="100%"/></a>
