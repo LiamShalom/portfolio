@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Remote</h4>
             <p>
-              
+              Cloud Services, API Integration, Automation
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
