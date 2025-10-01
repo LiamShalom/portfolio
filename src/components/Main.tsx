@@ -3,7 +3,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 import DescriptionIcon from '@mui/icons-material/Description';
-import avatar from '../assets/images/avatar.jpeg';
+import avatar from '../assets/images/avatar.jpg';
 import '../assets/styles/Main.scss';
 
 function Main() {
