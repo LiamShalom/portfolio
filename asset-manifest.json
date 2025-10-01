@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f03f0c33.css",
-    "main.js": "/portfolio/static/js/main.c5d9aea5.js",
+    "main.js": "/portfolio/static/js/main.c1b1f665.js",
     "static/js/453.5d79306b.chunk.js": "/portfolio/static/js/453.5d79306b.chunk.js",
     "static/media/sentra-chatbot-mock.png": "/portfolio/static/media/sentra-chatbot-mock.79737de4e8c63008c2e3.png",
     "static/media/muscle-map-mock.png": "/portfolio/static/media/muscle-map-mock.5cdfe5b13ded8719ec17.png",
-    "static/media/avatar.jpeg": "/portfolio/static/media/avatar.bf080b15a7072366f085.jpeg",
+    "static/media/avatar.jpg": "/portfolio/static/media/avatar.0d30014210db9d8da798.jpg",
     "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/chess-app-mock.png": "/portfolio/static/media/chess-app-mock.a4d4b83efbb6247c878c.png",
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/tke-website-mock.png": "/portfolio/static/media/tke-website-mock.889586dad82ce8d4cf10.png",
     "index.html": "/portfolio/index.html",
     "main.f03f0c33.css.map": "/portfolio/static/css/main.f03f0c33.css.map",
-    "main.c5d9aea5.js.map": "/portfolio/static/js/main.c5d9aea5.js.map",
+    "main.c1b1f665.js.map": "/portfolio/static/js/main.c1b1f665.js.map",
     "453.5d79306b.chunk.js.map": "/portfolio/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f03f0c33.css",
-    "static/js/main.c5d9aea5.js"
+    "static/js/main.c1b1f665.js"
   ]
 }
