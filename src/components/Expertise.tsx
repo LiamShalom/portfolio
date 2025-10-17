@@ -6,18 +6,30 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
+    "Python",
+    "Pandas",
+    "Matplotlib",
+    "Seaborn",
+    "Jupyter",
+    "TensorFlow",
+    "Pytorch",
+    "NumPy",
+    "Sci-kit"
+];
+
+const labelsSecond = [
+    "Java",
+    "C",
+    "SQL",
+    "PostgreSQL",
     "React",
     "TypeScript",
     "JavaScript",
     "HTML5",
     "CSS3",
-    "Java",
-    "C#",
-    "SQL",
-    "PostgreSQL"
 ];
 
-const labelsSecond = [
+const labelsThird = [
     "Git",
     "GitHub Actions",
     "Docker",
@@ -27,19 +39,27 @@ const labelsSecond = [
     "Selenium",
 ];
 
-const labelsThird = [
-    "Python",
-    "Pytorch",
-    "NumPy",
-    "Sci-kit"
-];
-
 function Expertise() {
     return (
     <div className="container" id="expertise">
         <div className="skills-container">
             <h1>Expertise</h1>
             <div className="skills-grid">
+                <div className="skill">
+                    <FontAwesomeIcon icon={faPython} size="3x"/>
+                    <h3>Data Science & Research</h3>
+                    <p>Through coursework and lab research, I’ve applied machine learning, data visualization,
+                         and statistical techniques to real-world problems. I’m comfortable working with
+                          structured data and conducting technical investigations to inform design and system
+                           improvements.</p>
+                    <div className="flex-chips">
+                        <span className="chip-title">Tech stack:</span>
+                        {labelsFirst.map((label, index) => (
+                            <Chip key={index} className='chip' label={label} />
+                        ))}
+                    </div>
+                </div>
+
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full-Stack Web Development</h3>
@@ -48,7 +68,7 @@ function Expertise() {
                           and backend development.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
-                        {labelsFirst.map((label, index) => (
+                        {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
                     </div>
@@ -62,26 +82,13 @@ function Expertise() {
                           ability to identify process bottlenecks and streamline backend operations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
-                        {labelsSecond.map((label, index) => (
-                            <Chip key={index} className='chip' label={label} />
-                        ))}
-                    </div>
-                </div>
-
-                <div className="skill">
-                    <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>Data Science & Research</h3>
-                    <p>Through coursework and lab research, I’ve applied machine learning, data visualization,
-                         and statistical techniques to real-world problems. I’m comfortable working with
-                          structured data and conducting technical investigations to inform design and system
-                           improvements.</p>
-                    <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
                     </div>
                 </div>
+
+                
             </div>
         </div>
     </div>

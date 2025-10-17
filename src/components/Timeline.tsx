@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Remote</h4>
+            <h4 className="vertical-timeline-element-subtitle">Seattle, WA</h4>
             <p>
               Cloud Services, API Integration, Automation
             </p>
@@ -44,10 +44,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Automation Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Remote</h4>
+            <h3 className="vertical-timeline-element-title">Data Automation Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Seattle, WA</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Data Automation, API Development, User Experience
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
