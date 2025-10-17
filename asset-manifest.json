@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f03f0c33.css",
-    "main.js": "/portfolio/static/js/main.c1b1f665.js",
+    "main.js": "/portfolio/static/js/main.1e6d5d68.js",
     "static/js/453.5d79306b.chunk.js": "/portfolio/static/js/453.5d79306b.chunk.js",
     "static/media/sentra-chatbot-mock.png": "/portfolio/static/media/sentra-chatbot-mock.79737de4e8c63008c2e3.png",
     "static/media/muscle-map-mock.png": "/portfolio/static/media/muscle-map-mock.5cdfe5b13ded8719ec17.png",
@@ -12,11 +12,11 @@
     "static/media/tke-website-mock.png": "/portfolio/static/media/tke-website-mock.889586dad82ce8d4cf10.png",
     "index.html": "/portfolio/index.html",
     "main.f03f0c33.css.map": "/portfolio/static/css/main.f03f0c33.css.map",
-    "main.c1b1f665.js.map": "/portfolio/static/js/main.c1b1f665.js.map",
+    "main.1e6d5d68.js.map": "/portfolio/static/js/main.1e6d5d68.js.map",
     "453.5d79306b.chunk.js.map": "/portfolio/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f03f0c33.css",
-    "static/js/main.c1b1f665.js"
+    "static/js/main.1e6d5d68.js"
   ]
 }
