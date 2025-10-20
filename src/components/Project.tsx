@@ -3,6 +3,7 @@ import mock1 from '../assets/images/sentra-chatbot-mock.png';
 import mock2 from '../assets/images/chess-app-mock.png'
 import mock3 from '../assets/images/muscle-map-mock.png';
 import mock4 from '../assets/images/tke-website-mock.png';
+import mock5 from '../assets/images/molecular-mock.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -10,6 +11,11 @@ function Project() {
     <div className="projects-container" id="projects">
         <h1>Personal Projects</h1>
         <div className="projects-grid">
+            <div className="project">
+                <a href="https://molecular-xi.vercel.app" target="_blank" rel="noreferrer"><img src={mock5} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://molecular-xi.vercel.app" target="_blank" rel="noreferrer"><h2>MoleculAR</h2></a>
+                <p>MoleculAR visualizes molecular structures and interactions in real time, allowing users to explore and analyze 3D models of proteins and compounds directly in the browser.</p>
+            </div>
             <div className="project">
                 <a href="https://sentra-4114a.web.app" target="_blank" rel="noreferrer"><img src={mock1} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://sentra-4114a.web.app" target="_blank" rel="noreferrer"><h2>Sentra Chatbot</h2></a>
