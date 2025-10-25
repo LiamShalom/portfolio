@@ -4,6 +4,7 @@ import mock2 from '../assets/images/chess-app-mock.png'
 import mock3 from '../assets/images/muscle-map-mock.png';
 import mock4 from '../assets/images/tke-website-mock.png';
 import mock5 from '../assets/images/molecular-mock.png';
+import mock6 from '../assets/images/dialed-mock.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -12,9 +13,14 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
+                <a href="https://dialed-delta.vercel.app" target="_blank" rel="noreferrer"><img src={mock6} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://dialed-delta.vercel.app" target="_blank" rel="noreferrer"><h2>Dialed</h2></a>
+                <p>A full-stack habit and wellness tracker that helps users build consistency through progress visualization while empowering lasting self-improvement and daily balance.</p>
+            </div>
+            <div className="project">
                 <a href="https://molecular-xi.vercel.app" target="_blank" rel="noreferrer"><img src={mock5} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://molecular-xi.vercel.app" target="_blank" rel="noreferrer"><h2>MoleculAR</h2></a>
-                <p>MoleculAR visualizes molecular structures and interactions in real time, allowing users to explore and analyze 3D models of proteins and compounds directly in the browser.</p>
+                <p>A web appplication that visualizes molecular structures and interactions in real time, allowing users to explore and analyze 3D models of proteins and compounds directly in the browser.</p>
             </div>
             <div className="project">
                 <a href="https://sentra-4114a.web.app" target="_blank" rel="noreferrer"><img src={mock1} className="zoom" alt="thumbnail" width="100%"/></a>
