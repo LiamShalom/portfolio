@@ -16,12 +16,26 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date=" Jun 2025 - present"
+            date=" Oct 2025 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Seattle, WA</h4>
+            <h3 className="vertical-timeline-element-title">AI/ML Software Engineer Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Propper AI</h4>
+            <p>
+              Machine Learning, Automation, DevOps
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date=" Jun 2025 - Sep 2025"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Full-Stack Software Engineer Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Aurora View</h4>
             <p>
               Cloud Services, API Integration, Automation
             </p>
@@ -33,7 +47,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Research Assistant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Seattle, WA</h4>
+            <h4 className="vertical-timeline-element-subtitle">Sensors Energy, and Automation Lab (SEAL)</h4>
             <p>
               Frontend Development, Web Hosting, Kanban
             </p>
@@ -45,7 +59,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Data Automation Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Seattle, WA</h4>
+            <h4 className="vertical-timeline-element-subtitle">Aurora View</h4>
             <p>
               Data Automation, API Development, User Experience
             </p>
@@ -57,7 +71,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Game Development Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Seattle, WA</h4>
+            <h4 className="vertical-timeline-element-subtitle">Lemon Boy Studios</h4>
             <p>
               Unity, Game Development, Project Planning
             </p>
