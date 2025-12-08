@@ -14,7 +14,7 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="leicester-pl-championship.vercel.app" target="_blank" rel="noreferrer"><img src={mock6} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="leicester-pl-championship.vercel.app" target="_blank" rel="noreferrer"><h2>How Leicester City won the Premier League</h2></a>
+                <a href="leicester-pl-championship.vercel.app" target="_blank" rel="noreferrer"><h2>Leicester City PL Exploration</h2></a>
                 <p>An interactive data visualization exploring how Leicester City achieved one of the greatest underdog stories in sports history by winning the 2015-16 Premier League title.</p>
             </div>
             <div className="project">
