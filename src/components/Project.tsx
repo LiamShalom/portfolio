@@ -4,7 +4,7 @@ import mock2 from '../assets/images/chess-app-mock.png'
 import mock3 from '../assets/images/muscle-map-mock.png';
 import mock4 from '../assets/images/tke-website-mock.png';
 import mock5 from '../assets/images/molecular-mock.png';
-import mock6 from '../assets/images/dialed-mock.png';
+import mock6 from '../assets/images/leicester-city.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -13,9 +13,9 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://dialed-delta.vercel.app" target="_blank" rel="noreferrer"><img src={mock6} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://dialed-delta.vercel.app" target="_blank" rel="noreferrer"><h2>Dialed</h2></a>
-                <p>A full-stack habit and wellness tracker that helps users build consistency through progress visualization while empowering lasting self-improvement and daily balance.</p>
+                <a href="leicester-pl-championship.vercel.app" target="_blank" rel="noreferrer"><img src={mock6} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="leicester-pl-championship.vercel.app" target="_blank" rel="noreferrer"><h2>How Leicester City won the Premier League</h2></a>
+                <p>An interactive data visualization exploring how Leicester City achieved one of the greatest underdog stories in sports history by winning the 2015-16 Premier League title.</p>
             </div>
             <div className="project">
                 <a href="https://molecular-xi.vercel.app" target="_blank" rel="noreferrer"><img src={mock5} className="zoom" alt="thumbnail" width="100%"/></a>
